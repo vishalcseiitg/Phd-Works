@@ -1,1 +1,3 @@
+The dataset, obtained from the repository https://github.com/frbkrm/NtwPerceptionBias/tree/master/datasets, will be a practical resource for exploring and analyzing computational network science concepts. By utilizing this dataset, we can delve into real-world examples and enhance our comprehension of the topics covered in this article.
 
+The provided dataset is a GEXF file, which is a format used for representing graph data. This specific GEXF file has a graph with undirected edges and static attributes for the nodes. The nodes in the graph have unique identifiers ("id") and labels. The nodes also have an attribute titled “pacs” and a string type. Each node has an attribute value for the “pacs” attribute.
